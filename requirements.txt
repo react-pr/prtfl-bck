@@ -1,0 +1,5 @@
+fastapi
+cors
+python-dotenv
+uvicorn
+resend
